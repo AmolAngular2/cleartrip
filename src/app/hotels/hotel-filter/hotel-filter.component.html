@@ -1,0 +1,35 @@
+<div class="container border border-secondary mt-1 ms-2">
+    <div class="row">
+        <div class="col-md-12">
+            <h5 class="fw-bold mb-4">Search Filters</h5>
+
+            <div class="user-rating" *ngIf="filterObj.rating != undefined">
+                <h6>User Rating</h6>
+                <div class="form-check" *ngFor="let item of filterObj.rating;let i=index">
+                         <!-- emit data on single action -->
+                    <!-- <input class="form-check-input" type="checkbox" value="" name="rating+{{i}}" [(ngModel)]="item.isSelected" id="flexCheckDefault" (ngModelChange)="emitData(item)"> -->
+
+                    <!-- multi action filter -->
+                    <input class="form-check-input" type="checkbox" value="" name="rating+{{i}}" [(ngModel)]="item.isSelected" id="flexCheckDefault" (ngModelChange)="emitMultiActionData(item)">
+                    <label class="form-check-label" for="flexCheckDefault">
+                        {{item.filterValue}}  &nbsp;Rating
+                    </label>
+                </div>
+            </div>
+
+            <div class="price-per-night mt-4" *ngIf="filterObj.pricePerNight != undefined">
+                <h6>Price Per Night</h6>
+                <div class="form-check mb-1" *ngFor="let item of filterObj.pricePerNight;let i=index">                    
+                         <!-- single action filter -->
+                    <!-- <input class="form-check-input" type="checkbox" name="price+{{i}}" [(ngModel)]="item.isSelected" value="" id="flexCheckDefault" (ngModelChange)="emitData(item)"> -->
+
+                    <!-- multi action filter -->
+                    <input class="form-check-input" type="checkbox" name="price+{{i}}" [(ngModel)]="item.isSelected" value="" id="flexCheckDefault" (ngModelChange)="emitMultiActionData(item)">
+                    <label class="form-check-label" for="flexCheckDefault">
+                        ₹ <span class="mx-1">{{item.filterRange.min}}</span>-₹<span class="mx-1">{{item.filterRange.max}}</span>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
