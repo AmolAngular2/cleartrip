@@ -2727,7 +2727,6 @@
                   "url": "//r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202111101036134317-6c08cdec23b911edb8910a58a9feac02.jpg?&output-quality=75&downsize=243:162&output-format=jpg",
                   "mediaType": "IMAGE"
                 },
-                
                 {
                   "url": "//r1imghtlak.mmtcdn.com/97662aba416b11ec815b0a58a9feac02.png?&output-quality=75&downsize=243:162&crop=243:162;0,40&output-format=jpg",
                   "mediaType": "IMAGE"
@@ -3367,8 +3366,7 @@
     },
     "correlationKey": "59682eb0-15a3-4136-83a1-1260d7804a08"
   },
-
-  "hotels-details":[
+  "hotels-details": [
     {
       "id": "200802190907473187",
       "name": "Hotel Aroma Executive",
@@ -3646,7 +3644,2541 @@
       "isABSO": false,
       "isRTB": false,
       "isMLOS": true,
-      "isWishListed": false
+      "isWishListed": false,
+      "roomList":[
+        {
+          "roomName": "Luxe Twin Room",
+          "roomCode": "154363",
+          "amenities": [
+            {
+              "name": "null",
+              "facilities": [
+                {
+                  "name": "Work Desk",
+                  "type": "room",
+                  "sequence": -20113,
+                  "categoryName": "Room Features",
+                  "tags": [
+                    "Work Friendly"
+                  ],
+                  "attributeName": "Work Desk",
+                  "highlightedName": "Work Desk"
+                }
+              ],
+              "type": "BOLD"
+            },
+            {
+              "name": "Popular with Guests",
+              "facilities": [
+                {
+                  "name": "Free Wi-Fi",
+                  "type": "room",
+                  "sequence": -20106,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Wifi",
+                  "highlightedName": "Free Wi-Fi",
+                  "childAttributes": [
+                    {
+                      "name": "Free",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Interconnected Room",
+                  "type": "room",
+                  "sequence": -20034,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Interconnected Room",
+                  "highlightedName": "Interconnected Room"
+                },
+                {
+                  "name": "24-hour Room Service",
+                  "type": "room",
+                  "sequence": -20008,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Room service",
+                  "highlightedName": "24-hour Room Service",
+                  "childAttributes": [
+                    {
+                      "name": "24 hours",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Bathroom",
+                  "type": "room",
+                  "sequence": 501,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Bathroom",
+                  "highlightedName": "Bathroom",
+                  "childAttributes": [
+                    {
+                      "name": "Private",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "24-hour In-room Dining",
+                  "type": "room",
+                  "sequence": 562,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "In Room dining",
+                  "highlightedName": "24-hour In-room Dining",
+                  "childAttributes": [
+                    {
+                      "name": "24 hours",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Housekeeping",
+                  "type": "room",
+                  "sequence": 991,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Housekeeping",
+                  "highlightedName": "Housekeeping",
+                  "childAttributes": [
+                    {
+                      "name": "Limited duration",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Laundry Service",
+                  "type": "room",
+                  "sequence": 1133,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Laundry Service",
+                  "displayType": "1",
+                  "highlightedName": "Laundry Service",
+                  "childAttributes": [
+                    {
+                      "name": "Paid",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Air Conditioning",
+                  "type": "room",
+                  "sequence": 1142,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Air Conditioning",
+                  "displayType": "1",
+                  "highlightedName": "Air Conditioning",
+                  "childAttributes": [
+                    {
+                      "name": "Room controlled",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Mineral Water",
+                  "type": "room",
+                  "sequence": 1660,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Mineral Water",
+                  "highlightedName": "Mineral Water",
+                  "childAttributes": [
+                    {
+                      "name": "Free",
+                      "subAttributes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Room Features",
+              "facilities": [
+                {
+                  "name": "Charging Points",
+                  "type": "room",
+                  "sequence": -20016,
+                  "categoryName": "Room Features",
+                  "attributeName": "Charging points",
+                  "displayType": "1",
+                  "highlightedName": "Charging Points",
+                  "childAttributes": [
+                    {
+                      "name": "International Adaptors",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Closet",
+                  "type": "room",
+                  "sequence": 48,
+                  "categoryName": "Room Features",
+                  "attributeName": "Closet",
+                  "highlightedName": "Closet"
+                },
+                {
+                  "name": "Minibar",
+                  "type": "room",
+                  "sequence": 50,
+                  "categoryName": "Room Features",
+                  "attributeName": "Mini Bar",
+                  "highlightedName": "Minibar"
+                },
+                {
+                  "name": "Seating Area",
+                  "type": "room",
+                  "sequence": 63,
+                  "categoryName": "Room Features",
+                  "tags": [
+                    "Party Friendly"
+                  ],
+                  "attributeName": "Seating Area",
+                  "highlightedName": "Seating Area"
+                },
+                {
+                  "name": "Mini Fridge",
+                  "type": "room",
+                  "sequence": 117,
+                  "categoryName": "Room Features",
+                  "attributeName": "Mini Fridge",
+                  "highlightedName": "Mini Fridge"
+                },
+                {
+                  "name": "Mirror",
+                  "type": "room",
+                  "sequence": 133,
+                  "categoryName": "Room Features",
+                  "attributeName": "Mirror",
+                  "highlightedName": "Mirror"
+                },
+                {
+                  "name": "Hangers",
+                  "type": "room",
+                  "sequence": 157,
+                  "categoryName": "Room Features",
+                  "attributeName": "Hangers",
+                  "highlightedName": "Hangers"
+                },
+                {
+                  "name": "Clothes Rack",
+                  "type": "room",
+                  "sequence": 180,
+                  "categoryName": "Room Features",
+                  "attributeName": "Clothes Rack",
+                  "highlightedName": "Clothes Rack"
+                },
+                {
+                  "name": "Blackout Curtains",
+                  "type": "room",
+                  "sequence": 243,
+                  "categoryName": "Room Features",
+                  "attributeName": "Blackout curtains",
+                  "highlightedName": "Blackout Curtains"
+                },
+                {
+                  "name": "Wooden Floors",
+                  "type": "room",
+                  "sequence": 245,
+                  "categoryName": "Room Features",
+                  "attributeName": "Wooden Floors",
+                  "highlightedName": "Wooden Floors"
+                },
+                {
+                  "name": "Telephone",
+                  "type": "room",
+                  "sequence": 344,
+                  "categoryName": "Room Features",
+                  "attributeName": "Telephone",
+                  "displayType": "1",
+                  "highlightedName": "Telephone",
+                  "childAttributes": [
+                    {
+                      "name": "International Calls",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Sofa",
+                  "type": "room",
+                  "sequence": 537,
+                  "categoryName": "Room Features",
+                  "tags": [
+                    "Party Friendly"
+                  ],
+                  "attributeName": "Sofa",
+                  "displayType": "1",
+                  "highlightedName": "Sofa",
+                  "childAttributes": [
+                    {
+                      "name": "Sofa Chair",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Intercom",
+                  "type": "room",
+                  "sequence": 1814,
+                  "categoryName": "Room Features",
+                  "attributeName": "Intercom",
+                  "displayType": "1",
+                  "highlightedName": "Intercom",
+                  "childAttributes": [
+                    {
+                      "name": "Room",
+                      "subAttributes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Childcare",
+              "facilities": [
+                {
+                  "name": "Cribs",
+                  "type": "room",
+                  "sequence": -20033,
+                  "categoryName": "Childcare",
+                  "tags": [
+                    "Kids Friendly"
+                  ],
+                  "attributeName": "Cribs",
+                  "highlightedName": "Cribs"
+                }
+              ]
+            },
+            {
+              "name": "Beds and Blanket",
+              "facilities": [
+                {
+                  "name": "Cushions",
+                  "type": "room",
+                  "sequence": 8,
+                  "categoryName": "Beds and Blanket",
+                  "attributeName": "Cushions",
+                  "highlightedName": "Cushions"
+                },
+                {
+                  "name": "Pillows",
+                  "type": "room",
+                  "sequence": 177,
+                  "categoryName": "Beds and Blanket",
+                  "attributeName": "Pillows",
+                  "highlightedName": "Pillows"
+                },
+                {
+                  "name": "Woollen Blanket",
+                  "type": "room",
+                  "sequence": 1380,
+                  "categoryName": "Beds and Blanket",
+                  "attributeName": "Blanket",
+                  "highlightedName": "Woollen Blanket",
+                  "childAttributes": [
+                    {
+                      "name": "Woollen",
+                      "subAttributes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Safety and Security",
+              "facilities": [
+                {
+                  "name": "Cupboards with Locks",
+                  "type": "room",
+                  "sequence": 134,
+                  "categoryName": "Safety and Security",
+                  "attributeName": "Cupboards with locks",
+                  "highlightedName": "Cupboards with Locks"
+                },
+                {
+                  "name": "Electronic Safe",
+                  "type": "room",
+                  "sequence": 1472,
+                  "categoryName": "Safety and Security",
+                  "attributeName": "Safe",
+                  "highlightedName": "Electronic Safe",
+                  "childAttributes": [
+                    {
+                      "name": "Electronic",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Safety",
+                  "type": "room",
+                  "sequence": 4027,
+                  "categoryName": "Safety and Security",
+                  "attributeName": "Safety",
+                  "displayType": "1",
+                  "highlightedName": "Safety",
+                  "childAttributes": [
+                    {
+                      "name": "Fire Alarm",
+                      "subAttributes": []
+                    },
+                    {
+                      "name": "Smoke Detector",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Smoke Alarm",
+                  "type": "room",
+                  "sequence": 4065,
+                  "categoryName": "Safety and Security",
+                  "attributeName": "Smoke Alarm",
+                  "highlightedName": "Smoke Alarm"
+                }
+              ]
+            },
+            {
+              "name": "Media and Entertainment",
+              "facilities": [
+                {
+                  "name": "In-house Movies",
+                  "type": "room",
+                  "sequence": 101,
+                  "categoryName": "Media and Entertainment",
+                  "tags": [
+                    "Kids Friendly"
+                  ],
+                  "attributeName": "In house movies",
+                  "highlightedName": "In-house Movies"
+                },
+                {
+                  "name": "TV",
+                  "type": "room",
+                  "sequence": 1141,
+                  "categoryName": "Media and Entertainment",
+                  "tags": [
+                    "Kids Friendly"
+                  ],
+                  "attributeName": "TV",
+                  "displayType": "1",
+                  "highlightedName": "TV",
+                  "childAttributes": [
+                    {
+                      "name": "LED",
+                      "subAttributes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Bathroom",
+              "facilities": [
+                {
+                  "name": "Shaving Mirror",
+                  "type": "room",
+                  "sequence": 18,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Shaving Mirror",
+                  "highlightedName": "Shaving Mirror"
+                },
+                {
+                  "name": "Hairdryer",
+                  "type": "room",
+                  "sequence": 61,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Hairdryer",
+                  "highlightedName": "Hairdryer"
+                },
+                {
+                  "name": "Dental Kit",
+                  "type": "room",
+                  "sequence": 94,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Dental Kit",
+                  "highlightedName": "Dental Kit"
+                },
+                {
+                  "name": "Towels",
+                  "type": "room",
+                  "sequence": 119,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Towels",
+                  "highlightedName": "Towels"
+                },
+                {
+                  "name": "Shower Cap",
+                  "type": "room",
+                  "sequence": 141,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Shower Cap",
+                  "highlightedName": "Shower Cap"
+                },
+                {
+                  "name": "Sanitary Bin",
+                  "type": "room",
+                  "sequence": 155,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Sanitary Bin",
+                  "highlightedName": "Sanitary Bin"
+                },
+                {
+                  "name": "Body Wrap",
+                  "type": "room",
+                  "sequence": 158,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Body Wrap",
+                  "highlightedName": "Body Wrap"
+                },
+                {
+                  "name": "Western Toilet Seat",
+                  "type": "room",
+                  "sequence": 203,
+                  "categoryName": "Bathroom",
+                  "tags": [
+                    "Elderly Friendly"
+                  ],
+                  "attributeName": "Western Toilet Seat",
+                  "highlightedName": "Western Toilet Seat"
+                },
+                {
+                  "name": "Shower Cubicle",
+                  "type": "room",
+                  "sequence": 207,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Shower cubicle",
+                  "highlightedName": "Shower Cubicle"
+                },
+                {
+                  "name": "Dustbins",
+                  "type": "room",
+                  "sequence": 220,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Dustbins",
+                  "highlightedName": "Dustbins"
+                },
+                {
+                  "name": "Toilet Paper",
+                  "type": "room",
+                  "sequence": 221,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Toilet Papers",
+                  "highlightedName": "Toilet Paper"
+                },
+                {
+                  "name": "Hot & Cold Water",
+                  "type": "room",
+                  "sequence": 240,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Hot & Cold Water",
+                  "highlightedName": "Hot & Cold Water"
+                },
+                {
+                  "name": "Toiletries",
+                  "type": "room",
+                  "sequence": 836,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Toiletries",
+                  "displayType": "1",
+                  "highlightedName": "Toiletries",
+                  "childAttributes": [
+                    {
+                      "name": "Conditioner",
+                      "subAttributes": []
+                    },
+                    {
+                      "name": "Shampoo",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Shower",
+                  "type": "room",
+                  "sequence": 1334,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Shower",
+                  "displayType": "1",
+                  "highlightedName": "Shower",
+                  "childAttributes": [
+                    {
+                      "name": "Standing",
+                      "subAttributes": []
+                    },
+                    {
+                      "name": "Hand shower",
+                      "subAttributes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Other Facilities",
+              "facilities": [
+                {
+                  "name": "Shoe Shine",
+                  "type": "room",
+                  "sequence": -20014,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Shoe shine",
+                  "highlightedName": "Shoe Shine"
+                },
+                {
+                  "name": "Sound Proofing",
+                  "type": "room",
+                  "sequence": 62,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Sound proofing",
+                  "highlightedName": "Sound Proofing"
+                },
+                {
+                  "name": "Shoe Horn",
+                  "type": "room",
+                  "sequence": 181,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Shoe Horn",
+                  "highlightedName": "Shoe Horn"
+                },
+                {
+                  "name": "Newspaper",
+                  "type": "room",
+                  "sequence": 192,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Newspaper",
+                  "highlightedName": "Newspaper"
+                },
+                {
+                  "name": "Ceiling Fan",
+                  "type": "room",
+                  "sequence": 2504,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Fan",
+                  "highlightedName": "Ceiling Fan",
+                  "childAttributes": [
+                    {
+                      "name": "Ceiling",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Security",
+                  "type": "room",
+                  "sequence": 100000,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Security",
+                  "highlightedName": "Security",
+                  "childAttributes": [
+                    {
+                      "name": "Key accessr",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Kettle",
+                  "type": "room",
+                  "sequence": 100001,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Kettle",
+                  "highlightedName": "Kettle"
+                }
+              ]
+            }
+          ],
+          "roomHighlights": [
+            {
+              "iconUrl": "https://promos.makemytrip.com/Hotels_product/Hotel_SR/Android/drawable-hdpi/view.png",
+              "text": "210 sq.ft",
+              "description": "210 sq.ft"
+            },
+            {
+              "iconUrl": "https://promos.makemytrip.com/Hotels_product/Hotel_SR/Android/drawable-hdpi/view.png",
+              "text": "City View",
+              "description": "City View"
+            },
+            {
+              "iconUrl": "https://promos.makemytrip.com/Hotels_product/Hotel_SR/Android/drawable-hdpi/bed.png",
+              "text": "1 Queen bed or 2 Twin Bed(s)",
+              "description": "1 Queen bed or 2 Twin Bed(s)"
+            }
+          ],
+          "images": [
+            "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-154363-62508cacd84111e9b0530242ac11000b.jpg",
+            "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-154363-b5468c5aec5e11e9bb680242ac110004.jpg",
+            "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-154363-d5dd4df8ec6011e9b5c00242ac110002.jpg",
+            "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-154363-e3829626d84111e9a3fd0242ac110003.jpg",
+            "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-154363-3dff8c2aec6111e9bc050242ac110002.jpg"
+          ],
+          "ratePlans": [
+            {
+              "rpc": "7004943556440559171",
+              "payMode": "PAS",
+              "name": "Room Only",
+              "filterCode": [
+                "INSTANT_BOOKING"
+              ],
+              "inclusionsList": [
+                {
+                  "code": "No meals included",
+                  "iconType": "DEFAULT",
+                  "text": "No meals included",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Inclusions/Icons/Default_DefaultDot.png",
+                  "inclusionCode": "EP",
+                  "category": "MEAL",
+                  "onOffer": false,
+                  "bookable": false
+                },
+                {
+                  "code": "20% discount on Food and Soft Beverages",
+                  "iconType": "DEFAULT",
+                  "text": "20% discount on Food and Soft Beverages",
+                  "subText": "20% discount on Food and Soft Beverages",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": false
+                },
+                {
+                  "code": "Free Welcome Drink on Arrival",
+                  "iconType": "DEFAULT",
+                  "text": "Free Welcome Drink on Arrival",
+                  "subText": "Complimentary 1 Welcome Drink on Arrival is provided. Drinks are served with Tea or coffee options.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": true
+                }
+              ],
+              "cancellationPolicy": {
+                "iconType": "DEFAULT",
+                "iconUrl": "https://promos.makemytrip.com/Hotels_product/Inclusions/Icons/Inclusion_RedCross.png",
+                "text": "Non-Refundable",
+                "subText": "On Cancellation, You will not get any refund",
+                "type": "NR",
+                "cancelRules": [
+                  {
+                    "text": "<b>This booking is non-refundable and the tariff cannot be cancelled with zero fee.</b>"
+                  }
+                ]
+              },
+              "sellableType": "room",
+              "tariffs": [
+                {
+                  "tariffCode": "7004943556440559171",
+                  "defaultPriceKey": "DEFAULT",
+                  "occupancydetails": {
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomCount": 1,
+                    "displayPrice": 0,
+                    "roomId": 0
+                  },
+                  "roomTariffs": [
+                    {
+                      "numberOfAdults": 2,
+                      "numberOfChildren": 0,
+                      "displayPrice": 5299,
+                      "roomId": 0
+                    }
+                  ],
+                  "mtKey": "7004943556440559171",
+                  "priceMap": {
+                    "DEFAULT": {
+                      "details": [
+                        {
+                          "amount": 5299,
+                          "label": "Base Price",
+                          "key": "BASE_FARE",
+                          "type": "sum"
+                        },
+                        {
+                          "amount": 636,
+                          "label": "taxes & fees",
+                          "key": "TAXES",
+                          "type": "sum",
+                          "breakup": [
+                            {
+                              "amount": 636,
+                              "label": "Hotel Taxes",
+                              "key": "HOTEL_TAX",
+                              "type": "sum"
+                            }
+                          ]
+                        },
+                        {
+                          "amount": 5299,
+                          "label": "Total Amount to be paid",
+                          "key": "TOTAL_AMOUNT",
+                          "type": "sum"
+                        }
+                      ],
+                      "noCouponText": "No coupon codes applicable for this property.",
+                      "couponSubtext": "MMT Gift Cards can be applied at payment step",
+                      "pricingKey": "s9rHC9RN7n8qw6Rrjj6cehrDRnNSTukfbAs2dutkkGdpp6uxeLoodZ3Tk5eH3uHQnsuyQJn04DNZPw7/QymuhFMdc0UrOm3AFa6d2PL9jRb4EG/+Nj4yw93oHEY4QQrJM2ZQSEnSIrnwhhBQB6Tu0XLEwLja+q0MDAUvfuEmi3D1q0r+60WXxuLMbqq/sbv2RtIny6KzuIdra7KkTSRiylZH73eYzzK8g2YIiughjir3Ew9CiNL+yY/NRP3z5JSzFVrUzZfwZl30/ySTuDgONf0qDzD+GFLz",
+                      "priceDisplayMsg": "Per Night",
+                      "couponAmount": 0,
+                      "pinCodeMandatory": false
+                    }
+                  },
+                  "availCount": 17,
+                  "bnplApplicable": false
+                }
+              ],
+              "supplierCode": "INGO",
+              "reviewDeeplinkUrl": "https://www.makemytrip.com/hotels/hotel-review?hotelId=20080802125928557&checkin=12102023&checkout=12112023&country=IN&city=CTGOI&_uCurrency=INR&roomStayQualifier=2e0e&locusId=CTGOI&locusType=city&hotelName=Ginger+Goa%2C+Panjim&countryName=India&cityName=Goa&isEntireProperty=false&funnelName=HOTELS&roomCriteria=154363~%7C~7004943556440559171~%7C~2e0e&searchType=E&mtKey=7004943556440559171&rsc=1e2e&suppDetail=&payMode=PAS",
+              "staycationDeal": false,
+              "instantConfirmation": "",
+              "allInclusiveRate": false,
+              "ratePlanPersuasionsMap": {},
+              "specialFare": false,
+              "segmentId": "1120",
+              "packageRateAvailable": false,
+              "isLucky": false
+            },
+            {
+              "rpc": "6274829476736437230",
+              "payMode": "PAS",
+              "name": "Room with Breakfast",
+              "filterCode": [
+                "FREE_BREAKFAST",
+                "INSTANT_BOOKING"
+              ],
+              "inclusionsList": [
+                {
+                  "code": "20% discount on Food and Soft Beverages",
+                  "iconType": "DEFAULT",
+                  "text": "20% discount on Food and Soft Beverages",
+                  "subText": "20% discount on Food and Soft Beverages",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": false
+                },
+                {
+                  "code": "Free Welcome Drink on Arrival",
+                  "iconType": "DEFAULT",
+                  "text": "Free Welcome Drink on Arrival",
+                  "subText": "Complimentary 1 Welcome Drink on Arrival is provided. Drinks are served with Tea or coffee options.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": true
+                },
+                {
+                  "code": "Free Breakfast",
+                  "iconType": "DEFAULT",
+                  "text": "Free Breakfast",
+                  "subText": "Complimentary  Breakfast is available.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Hotel_SR/Android/drawable-hdpi/meal.png",
+                  "type": "MEAL_PLAN",
+                  "inclusionCode": "CP",
+                  "category": "MEAL",
+                  "onOffer": false,
+                  "bookable": true
+                }
+              ],
+              "cancellationPolicy": {
+                "iconType": "DEFAULT",
+                "iconUrl": "https://promos.makemytrip.com/Hotels_product/Inclusions/Icons/Inclusion_RedCross.png",
+                "text": "Non-Refundable",
+                "subText": "On Cancellation, You will not get any refund",
+                "type": "NR",
+                "cancelRules": [
+                  {
+                    "text": "<b>This booking is non-refundable and the tariff cannot be cancelled with zero fee.</b>"
+                  }
+                ]
+              },
+              "sellableType": "room",
+              "tariffs": [
+                {
+                  "tariffCode": "6274829476736437230",
+                  "defaultPriceKey": "DEFAULT",
+                  "occupancydetails": {
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomCount": 1,
+                    "displayPrice": 0,
+                    "roomId": 0
+                  },
+                  "roomTariffs": [
+                    {
+                      "numberOfAdults": 2,
+                      "numberOfChildren": 0,
+                      "displayPrice": 5849,
+                      "roomId": 0
+                    }
+                  ],
+                  "mtKey": "6274829476736437230",
+                  "priceMap": {
+                    "DEFAULT": {
+                      "details": [
+                        {
+                          "amount": 5849,
+                          "label": "Base Price",
+                          "key": "BASE_FARE",
+                          "type": "sum"
+                        },
+                        {
+                          "amount": 702,
+                          "label": "taxes & fees",
+                          "key": "TAXES",
+                          "type": "sum",
+                          "breakup": [
+                            {
+                              "amount": 702,
+                              "label": "Hotel Taxes",
+                              "key": "HOTEL_TAX",
+                              "type": "sum"
+                            }
+                          ]
+                        },
+                        {
+                          "amount": 5849,
+                          "label": "Total Amount to be paid",
+                          "key": "TOTAL_AMOUNT",
+                          "type": "sum"
+                        }
+                      ],
+                      "noCouponText": "No coupon codes applicable for this property.",
+                      "couponSubtext": "MMT Gift Cards can be applied at payment step",
+                      "pricingKey": "s9rHC9RN7n8XZs+rInvUTp8fPZjlflWFhZhp3G9QxLulpTZSa8toBKxbLtcSHjuRZ9CyRJPWlshlQa4v/jTSU37D+L5zcZQ8cnkZmNQFiz3tw7Wl0b5693HqQ0SM80EwvfXG9AcGONx1KaqnYKnCSAy97KfY4tzj/4cST+Na1xyBNJe1x1s6rU4I+UuCUbtNiks+D12HJ6Bz2FAPHaz/EV7fLxGHGubfzPbYbWygFUp2ZCWAWOjyJxtNaPw7hQT6668bbPnnvY1/KzdrONEd5yhtrLMkPJpp",
+                      "priceDisplayMsg": "Per Night",
+                      "couponAmount": 0,
+                      "pinCodeMandatory": false
+                    }
+                  },
+                  "availCount": 17,
+                  "bnplApplicable": false
+                }
+              ],
+              "supplierCode": "INGO",
+              "reviewDeeplinkUrl": "https://www.makemytrip.com/hotels/hotel-review?hotelId=20080802125928557&checkin=12102023&checkout=12112023&country=IN&city=CTGOI&_uCurrency=INR&roomStayQualifier=2e0e&locusId=CTGOI&locusType=city&hotelName=Ginger+Goa%2C+Panjim&countryName=India&cityName=Goa&isEntireProperty=false&funnelName=HOTELS&roomCriteria=154363~%7C~6274829476736437230~%7C~2e0e&searchType=E&mtKey=6274829476736437230&rsc=1e2e&suppDetail=&payMode=PAS",
+              "staycationDeal": false,
+              "instantConfirmation": "",
+              "allInclusiveRate": false,
+              "ratePlanPersuasionsMap": {},
+              "specialFare": false,
+              "segmentId": "1120",
+              "packageRateAvailable": false,
+              "isLucky": false
+            },
+            {
+              "rpc": "5644821207169859717",
+              "payMode": "PAS",
+              "name": "Room with Breakfast + Lunch/Dinner",
+              "filterCode": [
+                "FREE_BREAKFAST",
+                "TWO_MEAL_AVAIL",
+                "INSTANT_BOOKING"
+              ],
+              "inclusionsList": [
+                {
+                  "code": "20% discount on Food and Soft Beverages",
+                  "iconType": "DEFAULT",
+                  "text": "20% discount on Food and Soft Beverages",
+                  "subText": "20% discount on Food and Soft Beverages",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": false
+                },
+                {
+                  "code": "20 % Discount On F&B Services",
+                  "iconType": "DEFAULT",
+                  "text": "20 % Discount On F&B Services",
+                  "subText": "20% discount on F&B Services is available including Buffet. It will be served with Veg/Non-veg options. Drinks will include Hot Beverage.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": true
+                },
+                {
+                  "code": "Free Welcome Drink on Arrival",
+                  "iconType": "DEFAULT",
+                  "text": "Free Welcome Drink on Arrival",
+                  "subText": "Complimentary 1 Welcome Drink on Arrival is provided. Drinks are served with Tea or coffee options.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": true
+                },
+                {
+                  "code": "Free Lunch Or Dinner",
+                  "iconType": "DEFAULT",
+                  "text": "Free Lunch Or Dinner",
+                  "subText": "Complimentary  Lunch Or Dinner is available.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": true
+                },
+                {
+                  "code": "Free Breakfast",
+                  "iconType": "DEFAULT",
+                  "text": "Free Breakfast",
+                  "subText": "Complimentary  Breakfast is available.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Hotel_SR/Android/drawable-hdpi/meal.png",
+                  "type": "MEAL_PLAN",
+                  "inclusionCode": "MAP",
+                  "category": "MEAL",
+                  "onOffer": false,
+                  "bookable": true
+                }
+              ],
+              "cancellationPolicy": {
+                "iconType": "DEFAULT",
+                "iconUrl": "https://promos.makemytrip.com/Hotels_product/Inclusions/Icons/Inclusion_RedCross.png",
+                "text": "Non-Refundable",
+                "subText": "On Cancellation, You will not get any refund",
+                "type": "NR",
+                "cancelRules": [
+                  {
+                    "text": "<b>This booking is non-refundable and the tariff cannot be cancelled with zero fee.</b>"
+                  }
+                ]
+              },
+              "sellableType": "room",
+              "tariffs": [
+                {
+                  "tariffCode": "5644821207169859717",
+                  "defaultPriceKey": "DEFAULT",
+                  "occupancydetails": {
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomCount": 1,
+                    "displayPrice": 0,
+                    "roomId": 0
+                  },
+                  "roomTariffs": [
+                    {
+                      "numberOfAdults": 2,
+                      "numberOfChildren": 0,
+                      "displayPrice": 6549,
+                      "roomId": 0
+                    }
+                  ],
+                  "mtKey": "5644821207169859717",
+                  "priceMap": {
+                    "DEFAULT": {
+                      "details": [
+                        {
+                          "amount": 6549,
+                          "label": "Base Price",
+                          "key": "BASE_FARE",
+                          "type": "sum"
+                        },
+                        {
+                          "amount": 786,
+                          "label": "taxes & fees",
+                          "key": "TAXES",
+                          "type": "sum",
+                          "breakup": [
+                            {
+                              "amount": 786,
+                              "label": "Hotel Taxes",
+                              "key": "HOTEL_TAX",
+                              "type": "sum"
+                            }
+                          ]
+                        },
+                        {
+                          "amount": 6549,
+                          "label": "Total Amount to be paid",
+                          "key": "TOTAL_AMOUNT",
+                          "type": "sum"
+                        }
+                      ],
+                      "noCouponText": "No coupon codes applicable for this property.",
+                      "couponSubtext": "MMT Gift Cards can be applied at payment step",
+                      "pricingKey": "s9rHC9RN7n/U4vcWaJ2AhGolU5VFSmVlczBw7W/HaodS/nfGsZ9MyBMkK2vbSv9YmowYafot/1Y5GE7TjrurF5/aQ6xqODnYfAjJqWE4iKg+x5bvO7qRwVnHxBOt/R2QlJb/7wpBNypo7hHPugSIfn/wc1ckKjXktaWe4dzthzB7oRZtTtV3e6m7KOQ1a2k4+5oJ0TBAuFkSGaZXZQdrtl6KhA7G0dmmsXepO8BPh4A6FWUbDcWgivkgHbAMyaB+QHWBp46h9oZZWNW+Z6vTaoQ03EztwaUf",
+                      "priceDisplayMsg": "Per Night",
+                      "couponAmount": 0,
+                      "pinCodeMandatory": false
+                    }
+                  },
+                  "availCount": 17,
+                  "bnplApplicable": false
+                }
+              ],
+              "supplierCode": "INGO",
+              "reviewDeeplinkUrl": "https://www.makemytrip.com/hotels/hotel-review?hotelId=20080802125928557&checkin=12102023&checkout=12112023&country=IN&city=CTGOI&_uCurrency=INR&roomStayQualifier=2e0e&locusId=CTGOI&locusType=city&hotelName=Ginger+Goa%2C+Panjim&countryName=India&cityName=Goa&isEntireProperty=false&funnelName=HOTELS&roomCriteria=154363~%7C~5644821207169859717~%7C~2e0e&searchType=E&mtKey=5644821207169859717&rsc=1e2e&suppDetail=&payMode=PAS",
+              "staycationDeal": false,
+              "instantConfirmation": "",
+              "allInclusiveRate": false,
+              "ratePlanPersuasionsMap": {},
+              "specialFare": false,
+              "segmentId": "1120",
+              "packageRateAvailable": false,
+              "isLucky": false
+            }
+          ],
+          "clientViewType": {
+            "totalTariffs": 3,
+            "initialVisible": 3,
+            "baseTariffText": "Starting price at"
+          },
+          "maxGuest": 3,
+          "maxAdult": 2,
+          "maxChild": 1,
+          "parentRoomCode": "",
+          "master": false,
+          "roomSize": "210",
+          "roomViewName": "City View",
+          "bedCount": 1,
+          "bedroomCount": 1,
+          "beds": [
+            {
+              "type": "1 Queen bed or 2 Twin Bed(s)",
+              "count": 1,
+              "bedTypeKey": null
+            }
+          ],
+          "maxGuestCount": 3,
+          "maxAdultCount": 2,
+          "maxChildCount": 1,
+          "roomPersuasions": {
+            "PC_RIGHT_2": {
+              "data": [
+                {
+                  "id": "641356fafd3f2963f76b7c11",
+                  "persuasionType": "DISCOUNTS",
+                  "text": "Login to unlock the best deals",
+                  "hasAction": true,
+                  "style": {
+                    "styleClasses": [
+                      "latoBlack",
+                      "font11",
+                      "appendTop15",
+                      "blueText"
+                    ]
+                  },
+                  "multiPersuasionPriority": 0,
+                  "actionType": "LOGIN",
+                  "persuasionKey": "PERS_LOGGED_OUT_IN",
+                  "horizontal": false,
+                  "html": false
+                }
+              ],
+              "placeholder": "PC_RIGHT_2",
+              "template": "IMAGE_TEXT_H",
+              "templateType": "DEFAULT"
+            },
+            "PC_MIDDLE_4": {
+              "data": [
+                {
+                  "id": "5fdb5be253ac5278688c8970",
+                  "persuasionType": "HOTEL_CATEGORY",
+                  "text": "Couple Friendly",
+                  "hasAction": false,
+                  "style": {
+                    "styleClasses": [
+                      "pc__hotelCategory"
+                    ]
+                  },
+                  "multiPersuasionCount": 3,
+                  "multiPersuasionPriority": 3,
+                  "persuasionKey": "PERS_COUPLE_FRIENDLY",
+                  "horizontal": false,
+                  "html": false
+                }
+              ],
+              "placeholder": "PC_MIDDLE_4",
+              "template": "MULTI_PERSUASION_H",
+              "templateType": "DEFAULT"
+            }
+          },
+          "roomSummary": {
+            "ratingCount": 537,
+            "reviewCount": 238,
+            "topRated": false,
+            "tagData": [
+              {
+                "sentiment": "POSITIVE",
+                "tagType": "BASE",
+                "name": "Service Quality",
+                "id": "Good Service"
+              },
+              {
+                "sentiment": "NEUTRAL",
+                "tagType": "BASE",
+                "name": "Room Quality",
+                "id": "Good Room"
+              },
+              {
+                "sentiment": "NEGATIVE",
+                "tagType": "BASE",
+                "name": "Space in Rooms",
+                "id": "Spacious Rooms"
+              },
+              {
+                "sentiment": "POSITIVE",
+                "tagType": "BASE",
+                "name": "Room Cleanliness",
+                "id": "Clean Room"
+              },
+              {
+                "sentiment": "NEUTRAL",
+                "tagType": "BASE",
+                "name": "Solo",
+                "id": "Good for Solo"
+              },
+              {
+                "sentiment": "POSITIVE",
+                "tagType": "BASE",
+                "name": "Food Cleanliness",
+                "id": "Clean Food"
+              },
+              {
+                "sentiment": "NEUTRAL",
+                "tagType": "BASE",
+                "name": "Balcony",
+                "id": "Rooms Have Balcony"
+              },
+              {
+                "sentiment": "NEUTRAL",
+                "tagType": "BASE",
+                "name": "Couples",
+                "id": "Good for Couples"
+              },
+              {
+                "sentiment": "NEGATIVE",
+                "tagType": "BASE",
+                "name": "Bed Quality",
+                "id": "Twin Type Bed"
+              },
+              {
+                "sentiment": "NEUTRAL",
+                "tagType": "BASE",
+                "name": "Bathroom Hygiene",
+                "id": "Clean Bathrooms"
+              },
+              {
+                "sentiment": "NEUTRAL",
+                "tagType": "BASE",
+                "name": "Toilet Cleanliness",
+                "id": "Clean Toilet"
+              }
+            ],
+            "disableLowRating": false
+          },
+          "media": [
+            {
+              "mediaType": "IMAGE",
+              "url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-154363-62508cacd84111e9b0530242ac11000b.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-154363-b5468c5aec5e11e9bb680242ac110004.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-154363-d5dd4df8ec6011e9b5c00242ac110002.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-154363-e3829626d84111e9a3fd0242ac110003.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-154363-3dff8c2aec6111e9bc050242ac110002.jpg"
+            }
+          ],
+          "baseGuest": 0,
+          "extraBedCount": 0,
+          "baseRoom": false
+        },
+        {
+          "roomName": "Luxe Double Room",
+          "roomCode": "1034661",
+          "amenities": [
+            {
+              "name": "null",
+              "facilities": [
+                {
+                  "name": "Work Desk",
+                  "type": "room",
+                  "sequence": -20113,
+                  "categoryName": "Room Features",
+                  "tags": [
+                    "Work Friendly"
+                  ],
+                  "attributeName": "Work Desk",
+                  "highlightedName": "Work Desk"
+                }
+              ],
+              "type": "BOLD"
+            },
+            {
+              "name": "Popular with Guests",
+              "facilities": [
+                {
+                  "name": "Free Wi-Fi",
+                  "type": "room",
+                  "sequence": -20106,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Wifi",
+                  "highlightedName": "Free Wi-Fi",
+                  "childAttributes": [
+                    {
+                      "name": "Free",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Interconnected Room",
+                  "type": "room",
+                  "sequence": -20034,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Interconnected Room",
+                  "highlightedName": "Interconnected Room"
+                },
+                {
+                  "name": "Air Conditioning",
+                  "type": "room",
+                  "sequence": -20030,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Air Conditioning",
+                  "highlightedName": "Air Conditioning"
+                },
+                {
+                  "name": "Heater",
+                  "type": "room",
+                  "sequence": -20024,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Heater",
+                  "highlightedName": "Heater"
+                },
+                {
+                  "name": "Iron/Ironing Board",
+                  "type": "room",
+                  "sequence": -20018,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Iron/Ironing Board",
+                  "highlightedName": "Iron/Ironing Board"
+                },
+                {
+                  "name": "24-hour Room Service",
+                  "type": "room",
+                  "sequence": -20008,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Room service",
+                  "highlightedName": "24-hour Room Service",
+                  "childAttributes": [
+                    {
+                      "name": "24 hours",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Bathroom",
+                  "type": "room",
+                  "sequence": 501,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Bathroom",
+                  "highlightedName": "Bathroom",
+                  "childAttributes": [
+                    {
+                      "name": "Private",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "In-room Dining",
+                  "type": "room",
+                  "sequence": 559,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "In Room dining",
+                  "highlightedName": "In-room Dining",
+                  "childAttributes": [
+                    {
+                      "name": "Limited duration",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Housekeeping",
+                  "type": "room",
+                  "sequence": 991,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Housekeeping",
+                  "highlightedName": "Housekeeping",
+                  "childAttributes": [
+                    {
+                      "name": "Limited duration",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Laundry Service",
+                  "type": "room",
+                  "sequence": 1133,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Laundry Service",
+                  "displayType": "1",
+                  "highlightedName": "Laundry Service",
+                  "childAttributes": [
+                    {
+                      "name": "Paid",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Mineral Water",
+                  "type": "room",
+                  "sequence": 1660,
+                  "categoryName": "Popular with Guests",
+                  "attributeName": "Mineral Water",
+                  "highlightedName": "Mineral Water",
+                  "childAttributes": [
+                    {
+                      "name": "Free",
+                      "subAttributes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Room Features",
+              "facilities": [
+                {
+                  "name": "Charging Points",
+                  "type": "room",
+                  "sequence": -20016,
+                  "categoryName": "Room Features",
+                  "attributeName": "Charging points",
+                  "displayType": "1",
+                  "highlightedName": "Charging Points",
+                  "childAttributes": [
+                    {
+                      "name": "International Adaptors",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Couch",
+                  "type": "room",
+                  "sequence": 7,
+                  "categoryName": "Room Features",
+                  "tags": [
+                    "Party Friendly"
+                  ],
+                  "attributeName": "Couch",
+                  "highlightedName": "Couch"
+                },
+                {
+                  "name": "Closet",
+                  "type": "room",
+                  "sequence": 48,
+                  "categoryName": "Room Features",
+                  "attributeName": "Closet",
+                  "highlightedName": "Closet"
+                },
+                {
+                  "name": "Minibar",
+                  "type": "room",
+                  "sequence": 50,
+                  "categoryName": "Room Features",
+                  "attributeName": "Mini Bar",
+                  "highlightedName": "Minibar"
+                },
+                {
+                  "name": "Seating Area",
+                  "type": "room",
+                  "sequence": 63,
+                  "categoryName": "Room Features",
+                  "tags": [
+                    "Party Friendly"
+                  ],
+                  "attributeName": "Seating Area",
+                  "highlightedName": "Seating Area"
+                },
+                {
+                  "name": "Mini Fridge",
+                  "type": "room",
+                  "sequence": 117,
+                  "categoryName": "Room Features",
+                  "attributeName": "Mini Fridge",
+                  "highlightedName": "Mini Fridge"
+                },
+                {
+                  "name": "Mirror",
+                  "type": "room",
+                  "sequence": 133,
+                  "categoryName": "Room Features",
+                  "attributeName": "Mirror",
+                  "highlightedName": "Mirror"
+                },
+                {
+                  "name": "Hangers",
+                  "type": "room",
+                  "sequence": 157,
+                  "categoryName": "Room Features",
+                  "attributeName": "Hangers",
+                  "highlightedName": "Hangers"
+                },
+                {
+                  "name": "Clothes Rack",
+                  "type": "room",
+                  "sequence": 180,
+                  "categoryName": "Room Features",
+                  "attributeName": "Clothes Rack",
+                  "highlightedName": "Clothes Rack"
+                },
+                {
+                  "name": "Centre Table",
+                  "type": "room",
+                  "sequence": 202,
+                  "categoryName": "Room Features",
+                  "tags": [
+                    "Party Friendly"
+                  ],
+                  "attributeName": "Center Table",
+                  "highlightedName": "Centre Table"
+                },
+                {
+                  "name": "Blackout Curtains",
+                  "type": "room",
+                  "sequence": 243,
+                  "categoryName": "Room Features",
+                  "attributeName": "Blackout curtains",
+                  "highlightedName": "Blackout Curtains"
+                },
+                {
+                  "name": "Dining Table",
+                  "type": "room",
+                  "sequence": 244,
+                  "categoryName": "Room Features",
+                  "tags": [
+                    "Party Friendly"
+                  ],
+                  "attributeName": "Dining Table",
+                  "highlightedName": "Dining Table"
+                },
+                {
+                  "name": "Wooden Floors",
+                  "type": "room",
+                  "sequence": 245,
+                  "categoryName": "Room Features",
+                  "attributeName": "Wooden Floors",
+                  "highlightedName": "Wooden Floors"
+                },
+                {
+                  "name": "Telephone",
+                  "type": "room",
+                  "sequence": 344,
+                  "categoryName": "Room Features",
+                  "attributeName": "Telephone",
+                  "displayType": "1",
+                  "highlightedName": "Telephone",
+                  "childAttributes": [
+                    {
+                      "name": "International Calls",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Sofa",
+                  "type": "room",
+                  "sequence": 537,
+                  "categoryName": "Room Features",
+                  "tags": [
+                    "Party Friendly"
+                  ],
+                  "attributeName": "Sofa",
+                  "displayType": "1",
+                  "highlightedName": "Sofa",
+                  "childAttributes": [
+                    {
+                      "name": "Sofa Chair",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Intercom",
+                  "type": "room",
+                  "sequence": 1814,
+                  "categoryName": "Room Features",
+                  "attributeName": "Intercom",
+                  "displayType": "1",
+                  "highlightedName": "Intercom",
+                  "childAttributes": [
+                    {
+                      "name": "Room",
+                      "subAttributes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Childcare",
+              "facilities": [
+                {
+                  "name": "Cribs",
+                  "type": "room",
+                  "sequence": -20033,
+                  "categoryName": "Childcare",
+                  "tags": [
+                    "Kids Friendly"
+                  ],
+                  "attributeName": "Cribs",
+                  "highlightedName": "Cribs"
+                }
+              ]
+            },
+            {
+              "name": "Beds and Blanket",
+              "facilities": [
+                {
+                  "name": "Cushions",
+                  "type": "room",
+                  "sequence": 8,
+                  "categoryName": "Beds and Blanket",
+                  "attributeName": "Cushions",
+                  "highlightedName": "Cushions"
+                },
+                {
+                  "name": "Pillows",
+                  "type": "room",
+                  "sequence": 177,
+                  "categoryName": "Beds and Blanket",
+                  "attributeName": "Pillows",
+                  "highlightedName": "Pillows"
+                },
+                {
+                  "name": "Woollen Blanket",
+                  "type": "room",
+                  "sequence": 1380,
+                  "categoryName": "Beds and Blanket",
+                  "attributeName": "Blanket",
+                  "highlightedName": "Woollen Blanket",
+                  "childAttributes": [
+                    {
+                      "name": "Woollen",
+                      "subAttributes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Safety and Security",
+              "facilities": [
+                {
+                  "name": "Cupboards with Locks",
+                  "type": "room",
+                  "sequence": 134,
+                  "categoryName": "Safety and Security",
+                  "attributeName": "Cupboards with locks",
+                  "highlightedName": "Cupboards with Locks"
+                },
+                {
+                  "name": "Electronic Safe",
+                  "type": "room",
+                  "sequence": 1472,
+                  "categoryName": "Safety and Security",
+                  "attributeName": "Safe",
+                  "highlightedName": "Electronic Safe",
+                  "childAttributes": [
+                    {
+                      "name": "Electronic",
+                      "subAttributes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Media and Entertainment",
+              "facilities": [
+                {
+                  "name": "In-house Movies",
+                  "type": "room",
+                  "sequence": 101,
+                  "categoryName": "Media and Entertainment",
+                  "tags": [
+                    "Kids Friendly"
+                  ],
+                  "attributeName": "In house movies",
+                  "highlightedName": "In-house Movies"
+                },
+                {
+                  "name": "TV",
+                  "type": "room",
+                  "sequence": 1141,
+                  "categoryName": "Media and Entertainment",
+                  "tags": [
+                    "Kids Friendly"
+                  ],
+                  "attributeName": "TV",
+                  "displayType": "1",
+                  "highlightedName": "TV",
+                  "childAttributes": [
+                    {
+                      "name": "LED",
+                      "subAttributes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Bathroom",
+              "facilities": [
+                {
+                  "name": "Hairdryer",
+                  "type": "room",
+                  "sequence": 61,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Hairdryer",
+                  "highlightedName": "Hairdryer"
+                },
+                {
+                  "name": "Dental Kit",
+                  "type": "room",
+                  "sequence": 94,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Dental Kit",
+                  "highlightedName": "Dental Kit"
+                },
+                {
+                  "name": "Towels",
+                  "type": "room",
+                  "sequence": 119,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Towels",
+                  "highlightedName": "Towels"
+                },
+                {
+                  "name": "Shower Cap",
+                  "type": "room",
+                  "sequence": 141,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Shower Cap",
+                  "highlightedName": "Shower Cap"
+                },
+                {
+                  "name": "Slippers",
+                  "type": "room",
+                  "sequence": 153,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Slippers",
+                  "highlightedName": "Slippers"
+                },
+                {
+                  "name": "Sanitary Bin",
+                  "type": "room",
+                  "sequence": 155,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Sanitary Bin",
+                  "highlightedName": "Sanitary Bin"
+                },
+                {
+                  "name": "Body Wrap",
+                  "type": "room",
+                  "sequence": 158,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Body Wrap",
+                  "highlightedName": "Body Wrap"
+                },
+                {
+                  "name": "Western Toilet Seat",
+                  "type": "room",
+                  "sequence": 203,
+                  "categoryName": "Bathroom",
+                  "tags": [
+                    "Elderly Friendly"
+                  ],
+                  "attributeName": "Western Toilet Seat",
+                  "highlightedName": "Western Toilet Seat"
+                },
+                {
+                  "name": "Shower Cubicle",
+                  "type": "room",
+                  "sequence": 207,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Shower cubicle",
+                  "highlightedName": "Shower Cubicle"
+                },
+                {
+                  "name": "Dustbins",
+                  "type": "room",
+                  "sequence": 220,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Dustbins",
+                  "highlightedName": "Dustbins"
+                },
+                {
+                  "name": "Toilet Paper",
+                  "type": "room",
+                  "sequence": 221,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Toilet Papers",
+                  "highlightedName": "Toilet Paper"
+                },
+                {
+                  "name": "Lower Bathroom Sink",
+                  "type": "room",
+                  "sequence": 222,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Lower Bathroom Sink",
+                  "highlightedName": "Lower Bathroom Sink"
+                },
+                {
+                  "name": "Hot & Cold Water",
+                  "type": "room",
+                  "sequence": 240,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Hot & Cold Water",
+                  "highlightedName": "Hot & Cold Water"
+                },
+                {
+                  "name": "Toiletries",
+                  "type": "room",
+                  "sequence": 332,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Toiletries",
+                  "displayType": "1",
+                  "highlightedName": "Toiletries",
+                  "childAttributes": [
+                    {
+                      "name": "Conditioner",
+                      "subAttributes": []
+                    },
+                    {
+                      "name": "Shampoo",
+                      "subAttributes": []
+                    },
+                    {
+                      "name": "Shower Gel",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Shower",
+                  "type": "room",
+                  "sequence": 1334,
+                  "categoryName": "Bathroom",
+                  "attributeName": "Shower",
+                  "displayType": "1",
+                  "highlightedName": "Shower",
+                  "childAttributes": [
+                    {
+                      "name": "Standing",
+                      "subAttributes": []
+                    },
+                    {
+                      "name": "Hand shower",
+                      "subAttributes": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Other Facilities",
+              "facilities": [
+                {
+                  "name": "Shoe Shine",
+                  "type": "room",
+                  "sequence": -20014,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Shoe shine",
+                  "highlightedName": "Shoe Shine"
+                },
+                {
+                  "name": "Sound Proofing",
+                  "type": "room",
+                  "sequence": 62,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Sound proofing",
+                  "highlightedName": "Sound Proofing"
+                },
+                {
+                  "name": "Shoe Horn",
+                  "type": "room",
+                  "sequence": 181,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Shoe Horn",
+                  "highlightedName": "Shoe Horn"
+                },
+                {
+                  "name": "Newspaper",
+                  "type": "room",
+                  "sequence": 192,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Newspaper",
+                  "highlightedName": "Newspaper"
+                },
+                {
+                  "name": "Table Fan",
+                  "type": "room",
+                  "sequence": 1659,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Fan",
+                  "highlightedName": "Table Fan",
+                  "childAttributes": [
+                    {
+                      "name": "Table",
+                      "subAttributes": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Kettle",
+                  "type": "room",
+                  "sequence": 100000,
+                  "categoryName": "Other Facilities",
+                  "attributeName": "Kettle",
+                  "highlightedName": "Kettle"
+                }
+              ]
+            }
+          ],
+          "roomHighlights": [
+            {
+              "iconUrl": "https://promos.makemytrip.com/Hotels_product/Hotel_SR/Android/drawable-hdpi/view.png",
+              "text": "200 sq.ft",
+              "description": "200 sq.ft"
+            },
+            {
+              "iconUrl": "https://promos.makemytrip.com/Hotels_product/Hotel_SR/Android/drawable-hdpi/view.png",
+              "text": "City View",
+              "description": "City View"
+            },
+            {
+              "iconUrl": "https://promos.makemytrip.com/Hotels_product/Hotel_SR/Android/drawable-hdpi/bed.png",
+              "text": "1 Queen bed or 2 Twin Bed(s)",
+              "description": "1 Queen bed or 2 Twin Bed(s)"
+            }
+          ],
+          "images": [
+            "https://r1imghtlak.mmtcdn.com/1c32b6bcf87e11e886bd0242ac110003.jpg",
+            "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-1034661-0c9da800ec5d11e9bef90242ac110003.jpg",
+            "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-1034661-b7ec7254ec5d11e989960242ac110002.jpg",
+            "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-1034661-2038c484ec5e11e9bab20242ac110004.jpg"
+          ],
+          "ratePlans": [
+            {
+              "rpc": "-8572560848550156087",
+              "payMode": "PAS",
+              "name": "Room Only",
+              "filterCode": [
+                "INSTANT_BOOKING"
+              ],
+              "inclusionsList": [
+                {
+                  "code": "No meals included",
+                  "iconType": "DEFAULT",
+                  "text": "No meals included",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Inclusions/Icons/Default_DefaultDot.png",
+                  "inclusionCode": "EP",
+                  "category": "MEAL",
+                  "onOffer": false,
+                  "bookable": false
+                },
+                {
+                  "code": "20% discount on Food and Soft Beverages",
+                  "iconType": "DEFAULT",
+                  "text": "20% discount on Food and Soft Beverages",
+                  "subText": "20% discount on Food and Soft Beverages",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": false
+                },
+                {
+                  "code": "Free Welcome Drink on Arrival",
+                  "iconType": "DEFAULT",
+                  "text": "Free Welcome Drink on Arrival",
+                  "subText": "Complimentary 1 Welcome Drink on Arrival is provided. Drinks are served with Tea or coffee options.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": true
+                }
+              ],
+              "cancellationPolicy": {
+                "iconType": "DEFAULT",
+                "iconUrl": "https://promos.makemytrip.com/Hotels_product/Inclusions/Icons/Inclusion_RedCross.png",
+                "text": "Non-Refundable",
+                "subText": "On Cancellation, You will not get any refund",
+                "type": "NR",
+                "cancelRules": [
+                  {
+                    "text": "<b>This booking is non-refundable and the tariff cannot be cancelled with zero fee.</b>"
+                  }
+                ]
+              },
+              "sellableType": "room",
+              "tariffs": [
+                {
+                  "tariffCode": "-8572560848550156087",
+                  "defaultPriceKey": "DEFAULT",
+                  "occupancydetails": {
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomCount": 1,
+                    "displayPrice": 0,
+                    "roomId": 0
+                  },
+                  "roomTariffs": [
+                    {
+                      "numberOfAdults": 2,
+                      "numberOfChildren": 0,
+                      "displayPrice": 5299,
+                      "roomId": 0
+                    }
+                  ],
+                  "mtKey": "-8572560848550156087",
+                  "priceMap": {
+                    "DEFAULT": {
+                      "details": [
+                        {
+                          "amount": 5299,
+                          "label": "Base Price",
+                          "key": "BASE_FARE",
+                          "type": "sum"
+                        },
+                        {
+                          "amount": 636,
+                          "label": "taxes & fees",
+                          "key": "TAXES",
+                          "type": "sum",
+                          "breakup": [
+                            {
+                              "amount": 636,
+                              "label": "Hotel Taxes",
+                              "key": "HOTEL_TAX",
+                              "type": "sum"
+                            }
+                          ]
+                        },
+                        {
+                          "amount": 5299,
+                          "label": "Total Amount to be paid",
+                          "key": "TOTAL_AMOUNT",
+                          "type": "sum"
+                        }
+                      ],
+                      "noCouponText": "No coupon codes applicable for this property.",
+                      "couponSubtext": "MMT Gift Cards can be applied at payment step",
+                      "pricingKey": "s9rHC9RN7n8kpA5+8/4eJ8Kp/d6DAy00ak6PVTCOXPV9ay/8S7hhXEtbOLG+9AbeRvpiiilg221u4nmC5dLpmgf+jpiRqRUG0kTc6QfuIBYtKZCRx4Bd/y+IpdAq4zzakO0VCJrPzXNdc10H3WQ9ML25+4hTbXV0wnvIF5Uo8jERAMCRqcjSpb5wpWKfQecorawqZWFEwmBkQDxW5KfMvbePcWJiKrJzj1VvPvwTF9k5OQ3oR6EBAbzof0sl9rfkWawvCWqQwrQ6SFbZZ1uB1XisdxluEcYU",
+                      "priceDisplayMsg": "Per Night",
+                      "couponAmount": 0,
+                      "pinCodeMandatory": false
+                    }
+                  },
+                  "availCount": 25,
+                  "bnplApplicable": false
+                }
+              ],
+              "supplierCode": "INGO",
+              "reviewDeeplinkUrl": "https://www.makemytrip.com/hotels/hotel-review?hotelId=20080802125928557&checkin=12102023&checkout=12112023&country=IN&city=CTGOI&_uCurrency=INR&roomStayQualifier=2e0e&locusId=CTGOI&locusType=city&hotelName=Ginger+Goa%2C+Panjim&countryName=India&cityName=Goa&isEntireProperty=false&funnelName=HOTELS&roomCriteria=1034661~%7C~-8572560848550156087~%7C~2e0e&searchType=E&mtKey=-8572560848550156087&rsc=1e2e&suppDetail=&payMode=PAS",
+              "staycationDeal": false,
+              "instantConfirmation": "",
+              "allInclusiveRate": false,
+              "ratePlanPersuasionsMap": {},
+              "specialFare": false,
+              "segmentId": "1120",
+              "packageRateAvailable": false,
+              "isLucky": false
+            },
+            {
+              "rpc": "-4783908627939163611",
+              "payMode": "PAS",
+              "name": "Room with Breakfast",
+              "filterCode": [
+                "FREE_BREAKFAST",
+                "INSTANT_BOOKING"
+              ],
+              "inclusionsList": [
+                {
+                  "code": "20% discount on Food and Soft Beverages",
+                  "iconType": "DEFAULT",
+                  "text": "20% discount on Food and Soft Beverages",
+                  "subText": "20% discount on Food and Soft Beverages",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": false
+                },
+                {
+                  "code": "Free Welcome Drink on Arrival",
+                  "iconType": "DEFAULT",
+                  "text": "Free Welcome Drink on Arrival",
+                  "subText": "Complimentary 1 Welcome Drink on Arrival is provided. Drinks are served with Tea or coffee options.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": true
+                },
+                {
+                  "code": "Free Breakfast",
+                  "iconType": "DEFAULT",
+                  "text": "Free Breakfast",
+                  "subText": "Complimentary  Breakfast is available.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Hotel_SR/Android/drawable-hdpi/meal.png",
+                  "type": "MEAL_PLAN",
+                  "inclusionCode": "CP",
+                  "category": "MEAL",
+                  "onOffer": false,
+                  "bookable": true
+                }
+              ],
+              "cancellationPolicy": {
+                "iconType": "DEFAULT",
+                "iconUrl": "https://promos.makemytrip.com/Hotels_product/Inclusions/Icons/Inclusion_RedCross.png",
+                "text": "Non-Refundable",
+                "subText": "On Cancellation, You will not get any refund",
+                "type": "NR",
+                "cancelRules": [
+                  {
+                    "text": "<b>This booking is non-refundable and the tariff cannot be cancelled with zero fee.</b>"
+                  }
+                ]
+              },
+              "sellableType": "room",
+              "tariffs": [
+                {
+                  "tariffCode": "-4783908627939163611",
+                  "defaultPriceKey": "DEFAULT",
+                  "occupancydetails": {
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomCount": 1,
+                    "displayPrice": 0,
+                    "roomId": 0
+                  },
+                  "roomTariffs": [
+                    {
+                      "numberOfAdults": 2,
+                      "numberOfChildren": 0,
+                      "displayPrice": 5849,
+                      "roomId": 0
+                    }
+                  ],
+                  "mtKey": "-4783908627939163611",
+                  "priceMap": {
+                    "DEFAULT": {
+                      "details": [
+                        {
+                          "amount": 5849,
+                          "label": "Base Price",
+                          "key": "BASE_FARE",
+                          "type": "sum"
+                        },
+                        {
+                          "amount": 702,
+                          "label": "taxes & fees",
+                          "key": "TAXES",
+                          "type": "sum",
+                          "breakup": [
+                            {
+                              "amount": 702,
+                              "label": "Hotel Taxes",
+                              "key": "HOTEL_TAX",
+                              "type": "sum"
+                            }
+                          ]
+                        },
+                        {
+                          "amount": 5849,
+                          "label": "Total Amount to be paid",
+                          "key": "TOTAL_AMOUNT",
+                          "type": "sum"
+                        }
+                      ],
+                      "noCouponText": "No coupon codes applicable for this property.",
+                      "couponSubtext": "MMT Gift Cards can be applied at payment step",
+                      "pricingKey": "s9rHC9RN7n8GmI8BQKJhe6ushhWVxQlDIPuskMuyKQZMbSeOj+i5KPohe0AXYI15mcq2d7dsPSCO9R/kXidoQm3dZu26ugEGjlLtnNH0Cva5VbLaq87wgXB67ufQd85nkePPUuvyMPcv+HAmm8SKEIR/u/d+on6yjY8WsIGV/l40vmiTr2a9/bqngP3arMxO1pIwfLH742XF6B2XsqoZ4DIaOwdy+xQ2nt5o6p0rlP4UIpD9eyBydxmqbLk32qrPcaTeSilc8bjBav7GzGvw3jEeNRZkQJFC",
+                      "priceDisplayMsg": "Per Night",
+                      "couponAmount": 0,
+                      "pinCodeMandatory": false
+                    }
+                  },
+                  "availCount": 25,
+                  "bnplApplicable": false
+                }
+              ],
+              "supplierCode": "INGO",
+              "reviewDeeplinkUrl": "https://www.makemytrip.com/hotels/hotel-review?hotelId=20080802125928557&checkin=12102023&checkout=12112023&country=IN&city=CTGOI&_uCurrency=INR&roomStayQualifier=2e0e&locusId=CTGOI&locusType=city&hotelName=Ginger+Goa%2C+Panjim&countryName=India&cityName=Goa&isEntireProperty=false&funnelName=HOTELS&roomCriteria=1034661~%7C~-4783908627939163611~%7C~2e0e&searchType=E&mtKey=-4783908627939163611&rsc=1e2e&suppDetail=&payMode=PAS",
+              "staycationDeal": false,
+              "instantConfirmation": "",
+              "allInclusiveRate": false,
+              "ratePlanPersuasionsMap": {},
+              "specialFare": false,
+              "segmentId": "1120",
+              "packageRateAvailable": false,
+              "isLucky": false
+            },
+            {
+              "rpc": "-7214984333846857312",
+              "payMode": "PAS",
+              "name": "Room with Breakfast + Lunch/Dinner",
+              "filterCode": [
+                "FREE_BREAKFAST",
+                "TWO_MEAL_AVAIL",
+                "INSTANT_BOOKING"
+              ],
+              "inclusionsList": [
+                {
+                  "code": "20% discount on Food and Soft Beverages",
+                  "iconType": "DEFAULT",
+                  "text": "20% discount on Food and Soft Beverages",
+                  "subText": "20% discount on Food and Soft Beverages",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": false
+                },
+                {
+                  "code": "20 % Discount On F&B Services",
+                  "iconType": "DEFAULT",
+                  "text": "20 % Discount On F&B Services",
+                  "subText": "20% discount on F&B Services is available including Buffet. It will be served with Veg/Non-veg options. Drinks will include Hot Beverage.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": true
+                },
+                {
+                  "code": "Free Welcome Drink on Arrival",
+                  "iconType": "DEFAULT",
+                  "text": "Free Welcome Drink on Arrival",
+                  "subText": "Complimentary 1 Welcome Drink on Arrival is provided. Drinks are served with Tea or coffee options.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": true
+                },
+                {
+                  "code": "Free Lunch Or Dinner",
+                  "iconType": "DEFAULT",
+                  "text": "Free Lunch Or Dinner",
+                  "subText": "Complimentary  Lunch Or Dinner is available.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Persuasion_Icons/Dot.png",
+                  "onOffer": false,
+                  "bookable": true
+                },
+                {
+                  "code": "Free Breakfast",
+                  "iconType": "DEFAULT",
+                  "text": "Free Breakfast",
+                  "subText": "Complimentary  Breakfast is available.",
+                  "iconUrl": "https://promos.makemytrip.com/Hotels_product/Hotel_SR/Android/drawable-hdpi/meal.png",
+                  "type": "MEAL_PLAN",
+                  "inclusionCode": "MAP",
+                  "category": "MEAL",
+                  "onOffer": false,
+                  "bookable": true
+                }
+              ],
+              "cancellationPolicy": {
+                "iconType": "DEFAULT",
+                "iconUrl": "https://promos.makemytrip.com/Hotels_product/Inclusions/Icons/Inclusion_RedCross.png",
+                "text": "Non-Refundable",
+                "subText": "On Cancellation, You will not get any refund",
+                "type": "NR",
+                "cancelRules": [
+                  {
+                    "text": "<b>This booking is non-refundable and the tariff cannot be cancelled with zero fee.</b>"
+                  }
+                ]
+              },
+              "sellableType": "room",
+              "tariffs": [
+                {
+                  "tariffCode": "-7214984333846857312",
+                  "defaultPriceKey": "DEFAULT",
+                  "occupancydetails": {
+                    "numberOfAdults": 2,
+                    "numberOfChildren": 0,
+                    "roomCount": 1,
+                    "displayPrice": 0,
+                    "roomId": 0
+                  },
+                  "roomTariffs": [
+                    {
+                      "numberOfAdults": 2,
+                      "numberOfChildren": 0,
+                      "displayPrice": 6549,
+                      "roomId": 0
+                    }
+                  ],
+                  "mtKey": "-7214984333846857312",
+                  "priceMap": {
+                    "DEFAULT": {
+                      "details": [
+                        {
+                          "amount": 6549,
+                          "label": "Base Price",
+                          "key": "BASE_FARE",
+                          "type": "sum"
+                        },
+                        {
+                          "amount": 786,
+                          "label": "taxes & fees",
+                          "key": "TAXES",
+                          "type": "sum",
+                          "breakup": [
+                            {
+                              "amount": 786,
+                              "label": "Hotel Taxes",
+                              "key": "HOTEL_TAX",
+                              "type": "sum"
+                            }
+                          ]
+                        },
+                        {
+                          "amount": 6549,
+                          "label": "Total Amount to be paid",
+                          "key": "TOTAL_AMOUNT",
+                          "type": "sum"
+                        }
+                      ],
+                      "noCouponText": "No coupon codes applicable for this property.",
+                      "couponSubtext": "MMT Gift Cards can be applied at payment step",
+                      "pricingKey": "s9rHC9RN7n+cYKW23EKuwYCLI1ppCes4yEsFIcaJxY2T3bh1/jHV64H31kq4Xnzcxz/06xN1cureql+6pIibsBsNSiHJgPkpcfMJY42ClJGrKslmSpHaazffl80p8P+CsnouD57kp9waVBlcx6WT84fS+whrzTA+JaNNm+8ajm4aSNY/4NU17E7TlhfqbXdjnYdistClKqPATt0OFwTJGkvtmraU2TZaWAH0/8551MCyFqrYo85c6cqEOQsAww/j3e2vo//3lZkoELKZnkR4MgJVLIGJ4T0j",
+                      "priceDisplayMsg": "Per Night",
+                      "couponAmount": 0,
+                      "pinCodeMandatory": false
+                    }
+                  },
+                  "availCount": 25,
+                  "bnplApplicable": false
+                }
+              ],
+              "supplierCode": "INGO",
+              "reviewDeeplinkUrl": "https://www.makemytrip.com/hotels/hotel-review?hotelId=20080802125928557&checkin=12102023&checkout=12112023&country=IN&city=CTGOI&_uCurrency=INR&roomStayQualifier=2e0e&locusId=CTGOI&locusType=city&hotelName=Ginger+Goa%2C+Panjim&countryName=India&cityName=Goa&isEntireProperty=false&funnelName=HOTELS&roomCriteria=1034661~%7C~-7214984333846857312~%7C~2e0e&searchType=E&mtKey=-7214984333846857312&rsc=1e2e&suppDetail=&payMode=PAS",
+              "staycationDeal": false,
+              "instantConfirmation": "",
+              "allInclusiveRate": false,
+              "ratePlanPersuasionsMap": {},
+              "specialFare": false,
+              "segmentId": "1120",
+              "packageRateAvailable": false,
+              "isLucky": false
+            }
+          ],
+          "clientViewType": {
+            "totalTariffs": 3,
+            "initialVisible": 3,
+            "baseTariffText": "Starting price at"
+          },
+          "maxGuest": 3,
+          "maxAdult": 2,
+          "maxChild": 1,
+          "parentRoomCode": "",
+          "master": false,
+          "roomSize": "200",
+          "roomViewName": "City View",
+          "bedCount": 1,
+          "bedroomCount": 1,
+          "beds": [
+            {
+              "type": "1 Queen bed or 2 Twin Bed(s)",
+              "count": 1,
+              "bedTypeKey": null
+            }
+          ],
+          "maxGuestCount": 3,
+          "maxAdultCount": 2,
+          "maxChildCount": 1,
+          "roomPersuasions": {
+            "PC_RIGHT_2": {
+              "data": [
+                {
+                  "id": "641356fafd3f2963f76b7c11",
+                  "persuasionType": "DISCOUNTS",
+                  "text": "Login to unlock the best deals",
+                  "hasAction": true,
+                  "style": {
+                    "styleClasses": [
+                      "latoBlack",
+                      "font11",
+                      "appendTop15",
+                      "blueText"
+                    ]
+                  },
+                  "multiPersuasionPriority": 0,
+                  "actionType": "LOGIN",
+                  "persuasionKey": "PERS_LOGGED_OUT_IN",
+                  "horizontal": false,
+                  "html": false
+                }
+              ],
+              "placeholder": "PC_RIGHT_2",
+              "template": "IMAGE_TEXT_H",
+              "templateType": "DEFAULT"
+            },
+            "PC_MIDDLE_4": {
+              "data": [
+                {
+                  "id": "5fdb5be253ac5278688c8970",
+                  "persuasionType": "HOTEL_CATEGORY",
+                  "text": "Couple Friendly",
+                  "hasAction": false,
+                  "style": {
+                    "styleClasses": [
+                      "pc__hotelCategory"
+                    ]
+                  },
+                  "multiPersuasionCount": 3,
+                  "multiPersuasionPriority": 3,
+                  "persuasionKey": "PERS_COUPLE_FRIENDLY",
+                  "horizontal": false,
+                  "html": false
+                }
+              ],
+              "placeholder": "PC_MIDDLE_4",
+              "template": "MULTI_PERSUASION_H",
+              "templateType": "DEFAULT"
+            }
+          },
+          "roomSummary": {
+            "ratingCount": 1134,
+            "reviewCount": 531,
+            "topRated": false,
+            "tagData": [
+              {
+                "sentiment": "POSITIVE",
+                "tagType": "BASE",
+                "name": "Service Quality",
+                "id": "Good Service"
+              },
+              {
+                "sentiment": "NEGATIVE",
+                "tagType": "BASE",
+                "name": "Space in Rooms",
+                "id": "Spacious Rooms"
+              },
+              {
+                "sentiment": "NEUTRAL",
+                "tagType": "BASE",
+                "name": "Balcony",
+                "id": "Rooms Have Balcony"
+              },
+              {
+                "sentiment": "POSITIVE",
+                "tagType": "BASE",
+                "name": "Friends",
+                "id": "Good for Friends"
+              },
+              {
+                "sentiment": "POSITIVE",
+                "tagType": "BASE",
+                "name": "Room Quality",
+                "id": "Good Room"
+              },
+              {
+                "sentiment": "POSITIVE",
+                "tagType": "BASE",
+                "name": "Kids",
+                "id": "Good for Kids"
+              },
+              {
+                "sentiment": "POSITIVE",
+                "tagType": "BASE",
+                "name": "Room Cleanliness",
+                "id": "Clean Room"
+              },
+              {
+                "sentiment": "NEUTRAL",
+                "tagType": "BASE",
+                "name": "Solo",
+                "id": "Good for Solo"
+              },
+              {
+                "sentiment": "POSITIVE",
+                "tagType": "BASE",
+                "name": "Calmness",
+                "id": "Calm & Quiet"
+              },
+              {
+                "sentiment": "NEUTRAL",
+                "tagType": "BASE",
+                "name": "Bathroom Cleanliness",
+                "id": "Clean Bathroom"
+              },
+              {
+                "sentiment": "NEUTRAL",
+                "tagType": "BASE",
+                "name": "Room Amenities",
+                "id": "Good In-Room Amenities"
+              },
+              {
+                "sentiment": "POSITIVE",
+                "tagType": "BASE",
+                "name": "Staff Cleanliness",
+                "id": "Clean Staff"
+              },
+              {
+                "sentiment": "POSITIVE",
+                "tagType": "BASE",
+                "name": "Family",
+                "id": "Good for Family"
+              },
+              {
+                "sentiment": "POSITIVE",
+                "tagType": "BASE",
+                "name": "Bed Quality",
+                "id": "Comfortable Bed"
+              },
+              {
+                "sentiment": "NEGATIVE",
+                "tagType": "BASE",
+                "name": "Bed Cleanliness",
+                "id": "Clean Bed"
+              },
+              {
+                "sentiment": "NEUTRAL",
+                "tagType": "BASE",
+                "name": "Linen Cleanliness",
+                "id": "Clean Linen"
+              },
+              {
+                "sentiment": "NEGATIVE",
+                "tagType": "BASE",
+                "name": "Towels",
+                "id": "Clean Towel"
+              },
+              {
+                "sentiment": "NEGATIVE",
+                "tagType": "BASE",
+                "name": "Pillow Cleanliness",
+                "id": "Clean Pillow"
+              }
+            ],
+            "disableLowRating": false
+          },
+          "media": [
+            {
+              "mediaType": "IMAGE",
+              "url": "https://r1imghtlak.mmtcdn.com/1c32b6bcf87e11e886bd0242ac110003.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-1034661-0c9da800ec5d11e9bef90242ac110003.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-1034661-b7ec7254ec5d11e989960242ac110002.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/room-imgs/20080802125928557-1034661-2038c484ec5e11e9bab20242ac110004.jpg"
+            }
+          ],
+          "baseGuest": 0,
+          "extraBedCount": 0,
+          "baseRoom": false
+        }
+      ]
     },
     {
       "id": "201303140949106494",
@@ -6084,7 +8616,6 @@
           "url": "//r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202111101036134317-6c08cdec23b911edb8910a58a9feac02.jpg?&output-quality=75&downsize=243:162&output-format=jpg",
           "mediaType": "IMAGE"
         },
-        
         {
           "url": "//r1imghtlak.mmtcdn.com/97662aba416b11ec815b0a58a9feac02.png?&output-quality=75&downsize=243:162&crop=243:162;0,40&output-format=jpg",
           "mediaType": "IMAGE"
@@ -6694,6 +9225,24 @@
       "isRTB": false,
       "isMLOS": true,
       "isWishListed": false
+    }
+  ],
+  "users": [
+    {
+      "userName": "mike",
+      "email": "mike@gmail.com",
+      "mobile": "9090909090",
+      "otpVerified": true,
+      "password": "welcome123",
+      "id": 1
+    },
+    {
+      "userName": "david",
+      "email": "david@gmail.com",
+      "mobile": "9090990900",
+      "otpVerified": true,
+      "password": "welcome",
+      "id": 2
     }
   ]
 }
